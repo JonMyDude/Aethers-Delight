@@ -1,6 +1,6 @@
-# Nether's Delight
+# ☁ Aether's Delight ☁
 
-c="https://i.imgur.com/XoeklYl.png" width="50%">
+<img src="https://i.imgur.com/XoeklYl.png" width="50%">
 
 ## Overview
 ### 📖 About
