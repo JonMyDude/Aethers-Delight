@@ -1,13 +1,6 @@
 # Nether's Delight
 
-<a href="LINK INSERT HERE">
-  <img src="LINK INSERT HERE" alt="Curseforge">
-</a>
-<a href="LINK INSERT HERE">
-  <img alt="Discord" src="LINK INSERT HERE">
-</a>
-<br>
-<img src="https://i.imgur.com/XoeklYl.png" width="50%">
+c="https://i.imgur.com/XoeklYl.png" width="50%">
 
 ## Overview
 ### 📖 About
