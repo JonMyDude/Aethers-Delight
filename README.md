@@ -6,7 +6,7 @@
 ### 📖 About
 
 **Aether's Delight** is an addon mod for [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
-and [The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)
+& [The Aether](https://www.curseforge.com/minecraft/mc-mods/aether)
 that adds more food to the Aether Dimension !  
 
 By applying expert hunting strategies and honing your culinary prowess, you can craft a diverse array of
