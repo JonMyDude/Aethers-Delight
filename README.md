@@ -1,6 +1,6 @@
 # ☁ Aether's Delight ☁
 
-<img src="https://i.imgur.com/XoeklYl.png" width="50%">
+<img src="https://i.imgur.com/rv1zGGj.png" width="50%">
 
 ## Overview
 ### 📖 About
