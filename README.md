@@ -12,7 +12,7 @@ that adds more food to the Aether Dimension!
 By applying expert hunting strategies and honing your culinary prowess, you can craft a diverse array of
 sugary desserts and cloud-coated snacks, potentially helping you to survive longer in the Aether!
 
-Inspired by [Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/nethers-delight) and the lack of food in the Aether.
+Inspired by [Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/nethers-delight), [Twilight's Flavors & Delight](https://www.curseforge.com/minecraft/mc-mods/twilights-flavors-delight) and the lack of food in the Aether.
 
 ### 🔨 Required Mods:
 - [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
